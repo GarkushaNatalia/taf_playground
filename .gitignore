@@ -104,6 +104,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+tests/.pytest_cache
 .idea
 env/
 venv/

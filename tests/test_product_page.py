@@ -1,8 +1,6 @@
 import pytest
 
 from pages.product_page import ProductPage
-from robot.api.logger import info, debug, trace, console
-
 
 
 @pytest.mark.parametrize('link',
